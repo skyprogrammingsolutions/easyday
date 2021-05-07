@@ -1,0 +1,14 @@
+.form-content form {
+    width: 80%;
+    margin: 0 auto;
+}
+.heading {
+    padding-top: 3%;
+    text-align: center;
+}
+input#gender {
+    margin-left: 10px;
+}
+.hoby {
+    margin-left: 5px !important;
+}
