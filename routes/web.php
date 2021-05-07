@@ -14,7 +14,7 @@ use App\Http\Controllers\user_controller;
 |
 */
 
-Route::get('/', function () {
+Route::get('easyday', function () {
     return view('index');
 });
 Route::get('/profile',[user_controller::class, 'index']);
