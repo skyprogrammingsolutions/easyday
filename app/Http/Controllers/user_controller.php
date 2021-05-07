@@ -13,10 +13,7 @@ class user_controller extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
-    {
-        echo "string";
-    }
+    
 
     // for registration 
     public function register() {
